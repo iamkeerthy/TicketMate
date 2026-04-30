@@ -45,9 +45,21 @@ IT×247 TicketMate is a web-based help desk ticketing system designed to streaml
 
 ---
 
+
+
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/ticketmate.git
-cd ticketmate
+1. Clone the Repository: git clone https://github.com/your-username/ticketmate.git && cd ticketmate  
+2. Install Dependencies: composer install && npm install  
+3. Environment Setup: copy .env.example to .env and set DB_DATABASE=Ticketmate, DB_USERNAME=root, DB_PASSWORD=  
+4. Generate Application Key: php artisan key:generate  
+5. Run Database Migrations: php artisan migrate  
+6. Start the Application: php artisan serve && npm start 
+
+
+## 👨‍💻 Author
+Dunsan Keerthikan  
+
+
+
+
