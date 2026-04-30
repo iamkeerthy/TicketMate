@@ -2,8 +2,7 @@
 
 ## 📌 Project Overview
 IT×247 TicketMate is a web-based help desk ticketing system designed to streamline issue reporting, tracking, and resolution within an organization. It enables users to create tickets, assign them to relevant support agents, and monitor their status until resolution, improving communication and operational efficiency.
-
----
+ ![TicketMate Home Page](homepage.png)
 
 ## 🎯 Key Features
 
